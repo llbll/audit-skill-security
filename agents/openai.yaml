@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Skill Security"
+  short_description: "Assess Codex skills for malware, leakage, and unsafe behavior"
+  default_prompt: "Use $audit-skill-security to review a Codex skill directory for security risks, leakage paths, and suspicious behavior."
